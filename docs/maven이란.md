@@ -15,3 +15,5 @@
 ### 관련 파일 
 - pom.xml : project object model 프로젝트 최상위에 존재하는 파일, maven의 정보를 담고있는 파일
 - setting.xml : maven setting 정보를 담고있는 파일 프로젝트에 존재하지 않음
+
+명령어 https://oingdaddy.tistory.com/56
