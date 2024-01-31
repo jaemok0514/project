@@ -13,5 +13,6 @@ java의 웹 프레임워크, 자바 개발을 편하게 해주는 오픈소스 �
 ![image](https://github.com/jaemok0514/project/assets/94815900/d84b1d38-af23-4e47-a260-dcd2266b916d)
 
 
-spring aop 예시 : https://devlog-wjdrbs96.tistory.com/398 \w
+spring aop 예시 : https://devlog-wjdrbs96.tistory.com/398
+
 spring pojo 예시 : https://ittrue.tistory.com/211
