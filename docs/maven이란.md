@@ -12,6 +12,8 @@
 - site : 프로젝트 문서와 사이트를 작성, 생성하는 단계
 - deploy : 만들어진 패키지를 원격 저장소에 release하는 단계
 
+![image](https://github.com/jaemok0514/project/assets/94815900/4ec0bf93-1b44-4da3-a636-412ff16338fb)
+
 ### 관련 파일 
 - pom.xml : project object model 프로젝트 최상위에 존재하는 파일, maven의 정보를 담고있는 파일
 - setting.xml : maven setting 정보를 담고있는 파일 프로젝트에 존재하지 않음
