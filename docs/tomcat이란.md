@@ -1,7 +1,10 @@
-# tomcat이란
+# tomcat
+![image](https://github.com/jaemok0514/project/assets/94815900/c01d1ec7-48c0-4be6-8b16-beef1d904161)
 
+### tomcat이란
+apache 제단의 어플리케이션 서버로 자바 servlet을 실행하고 jsp가 포함된 웹페이지를 만들어줌.
 
-### 구조
+### 폴더구조
 ![image](https://github.com/jaemok0514/project/assets/94815900/7a53426b-d10b-4906-b61c-33ba5bd264f8)
 
 - bin : 톰캣 실행 및 종료 스크립트 파일이 있는 폴더
