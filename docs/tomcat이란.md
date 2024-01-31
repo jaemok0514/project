@@ -23,3 +23,8 @@ apache 제단의 어플리케이션 서버로 자바 servlet을 실행하고 jsp
 - temp : 임시 저장 폴더
 - webapps : 웹 어플리케이션 폴더
 - work : java파일과 class 파일이 있는 폴더
+
+# Servlet
+서블릿이란 클라이언트의 요청을 처리하고, 그 결과를 반환하는 Servlet 클래스의 구현 규칙을 지킨 자바 웹 프로그래밍 기술
+
+mvc 패턴의 controller에 해
