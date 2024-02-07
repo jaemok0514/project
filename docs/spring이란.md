@@ -31,3 +31,5 @@ o2admin 예시
 @Retention은 해당 annotation이 어느 시점까지 유지할 지 결정 (ex CLASS, RUNTIME, SOURCE)
 
 @Documented는 javadoc 문서 생성시 현재 어노테이션 설명추가
+
+### IoC란?
