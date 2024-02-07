@@ -26,4 +26,8 @@ o2admin 예시
 @Target과 @Retention은 spring aop 사용할 때 주로 사용하는 annotation
 ![image](https://github.com/jaemok0514/project/assets/94815900/0806be7f-1f06-48d0-a751-89603462b005)
 
-@documented는 
+@Target annotation은 해당 annotation이 위치할 곳을 결정 (ex ElementType.PARAMETER의 경우 메소드의 파라미터로 선언된 객체에서만 사용 등)
+
+@Retention은 해당 annotation이 어느 시점까지 유지할 지 결정 (ex CLASS, RUNTIME, SOURCE)
+
+@Documented는 javadoc 문서 생성시 현재 어노테이션 설명추가
