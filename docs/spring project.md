@@ -1,6 +1,7 @@
 ### 1. spring project 생성 후 pom.xml에서 java version 및 spring verison 수정
 java 1.8 및 spring 2.6.6 version으로 수정
 ![image](https://github.com/jaemok0514/project/assets/94815900/ad7d9fe9-898a-4457-860c-5029e698185e)
+- spring project 생성 시 지원하는 version은 java 1.8을 지원하지 않음 -> java를 올려서 설치 후 버전 다운
 
 ### 2. src/main/resources/static 아래에 index.html 생성
 ![image](https://github.com/jaemok0514/project/assets/94815900/2cf03ada-c686-439c-971f-3de56efc2e7e)
