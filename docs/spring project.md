@@ -15,7 +15,7 @@ java 1.8 및 spring 2.6.6 version으로 수정
 $ mvn package -DskipTests
 명령어 실행
 ![image](https://github.com/jaemok0514/project/assets/94815900/e85581d1-71c7-46af-874c-9372e17dc88c)
-> target 아래에 test2-0.0.1-SNAPSHOT.jar 파일 생성 확인
+> target 아래에 test2-0.0.1-SNAPSHOT.jar 파일 생성 확인<
 ![image](https://github.com/jaemok0514/project/assets/94815900/994fadd2-0bc0-4202-88db-8790bfd19ee0)
 
 ### 5. jar 파일 실행
