@@ -19,6 +19,6 @@ $ mvn package -DskipTests
 ![image](https://github.com/jaemok0514/project/assets/94815900/994fadd2-0bc0-4202-88db-8790bfd19ee0)
 
 ### 5. jar 파일 실행
-target 폴더로 이동 후 jar 파일 실행
+target 폴더로 이동 후 jar 파일 실행 <br>
 $ java -jar test2-0.0.1-SNAPSHOT.jar
 ![image](https://github.com/jaemok0514/project/assets/94815900/3e1757d7-ad81-47c9-8421-e169bf8f975b)
