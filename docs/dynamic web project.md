@@ -14,3 +14,6 @@
 ![image](https://github.com/jaemok0514/project/assets/94815900/7d30c8c4-31d2-46fe-a55a-6040ad63a132)
 ### 8. /bin/start.bat 파일 실행  
 ![image](https://github.com/jaemok0514/project/assets/94815900/e963d911-ca84-42f9-8500-48d5b70300a2) 
+### 9. 프로젝트 war로 빌드 후 tomcat에 등록
+- tomcat의 webapp에 test1.war 파일 저장 후 톰캣 실행
+![image](https://github.com/jaemok0514/project/assets/94815900/2ed4bb87-c8a1-484d-8fb6-e77959ae0b0f)
